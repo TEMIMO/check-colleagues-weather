@@ -1,5 +1,3 @@
-DO $$
 BEGIN
-CREATE SCHEMA public;
+    CREATE SCHEMA public;
 END;
-$$
